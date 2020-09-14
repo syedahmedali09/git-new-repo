@@ -1,2 +1,5 @@
 def bikename(nameofbike250cc,nameofbike125cc,*nameofbike70cc):
     print(f"name of bike 250 cc is {nameofbike250cc},name of bike 125cc is {nameofbike125cc} and,name of bike 70cc is {nameofbike70cc}")
+def math (a,g):
+     pint(a*g)
+   
